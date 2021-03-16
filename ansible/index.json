@@ -1,0 +1,38 @@
+{
+  "title": "Was ist ansible ?",
+  "description": "Eine übersicht über das Arbeiten mit Ansible",
+  "difficulty": "Beginner",
+  "time": "120minutes",
+  "details": {
+    "steps": [
+      {
+        "title": "Was ist ansible ?",
+        "text": "step1.md"
+      },
+      {
+        "title": "Was ist ein Task ?",
+        "text": "step2.md"
+      },
+      {
+        "title": "Was ist eine Role ?",
+        "text": "step3.md"
+      },
+      {
+        "title": "Wie nutze ich Variablen ?",
+        "text": "step4.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "ansible"
+  }
+}
